@@ -6,7 +6,7 @@ import numpy as np
 import streamlit as st
 
 
-st.title('NBA PLAYERS STATISTICS WITH EDA')
+st.title('NBA PLAYERS STATISTICS WITH EDA') ####################################################
 st.markdown("""
 This App will showcase the statistics of NBA players 
 with a touch of Exploratory Data Analysis
